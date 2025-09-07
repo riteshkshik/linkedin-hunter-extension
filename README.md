@@ -2,10 +2,14 @@
 
 A Chrome extension that fetches LinkedIn profile details using Hunter.io API.
 
+## Demo
+
+<video src="demo/screen-recording.mp4" width="600" controls></video>
+
 ## Setup Steps
 
 1. **Get Hunter.io API Key**
-   - Visit https://hunter.io/pricing
+   - Visit [https://hunter.io/pricing](https://hunter.io/pricing)
    - Sign up for a free account
    - Get your API key from the dashboard
 
@@ -21,7 +25,7 @@ A Chrome extension that fetches LinkedIn profile details using Hunter.io API.
 
 ## How to Test
 
-1. Navigate to the test LinkedIn profile: https://www.linkedin.com/in/raman-ghai-8bb7b418/
+1. Navigate to the test LinkedIn profile: [https://www.linkedin.com/in/ayush-tripathi-72241b149/](https://www.linkedin.com/in/ayush-tripathi-72241b149/)
 2. Click the extension icon in the Chrome toolbar
 3. The popup will display the fetched profile data
 
@@ -39,6 +43,7 @@ A Chrome extension that fetches LinkedIn profile details using Hunter.io API.
 - `popup.js` - Main logic and API calls
 - `content.js` - Content script for LinkedIn pages
 - `config.js` - API key configuration
+- `demo/screen-recording.mp4` - Demo video
 - `README.md` - Setup and usage instructions
 
 ## Troubleshooting
