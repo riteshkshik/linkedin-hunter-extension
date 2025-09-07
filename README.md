@@ -4,7 +4,7 @@ A Chrome extension that fetches LinkedIn profile details using Hunter.io API.
 
 ## Demo
 
-<video src="demo/screen-recording.mp4" width="600" controls></video>
+![Demo](demo/screen-recording.gif)
 
 ## Setup Steps
 
